@@ -47,4 +47,4 @@ This project analyzes e-commerce sales data to identify sales trends, profitabil
 - Observed monthly sales trends
 - ## 🖼 Dashboard Preview
 
-![Dashboard Preview](Screenshot 2026-02-22 041253.png)
+Screenshot 2026-02-22 041253.png
